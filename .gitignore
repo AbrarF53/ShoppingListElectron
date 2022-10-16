@@ -2,3 +2,4 @@ node_modules/
 out/
 key
 key.pub
+release-builds/
